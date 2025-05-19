@@ -2,34 +2,73 @@
 
 <img src="https://raw.githubusercontent.com/DanielMamaev/MonCenterLib/main/img/Moncenter.svg" alt="drawing" width="400"/>
 
-Статьи:
-* Исследование возможности высокоточного позиционирования с использованием смартфонов нового поколения
-https://www.researchgate.net/publication/378011040_Issledovanie_vozmoznosti_vysokotocnogo_pozicionirovania_s_ispolzovaniem_smartfonov_novogo_pokolenia
+## Статьи
 
+ГНСС:
+* Исследование возможности высокоточного позиционирования с использованием смартфонов нового
+поколения / С. В. Долин, А. В. Мареев, Л. М. Михаханова // Вестник СГУГиТ. – 2023. – Т. 28. – № 6. – С. 28–34. – DOI: 10.33764/2411-1759-2023-28-6-28-34. https://www.researchgate.net/publication/378011040_Issledovanie_vozmoznosti_vysokotocnogo_pozicionirovania_s_ispolzovaniem_smartfonov_novogo_pokolenia
+
+* Мониторинг качества спутниковых измерений на пунктах ФАГС / А. П. Карпик, А. В. Мареев, Д. С. Мамаев, И. Е. Дорогова // Интерэкспо Гео-Сибирь. – 2023. – Т. 1, № 2. – С. 306-312. – DOI 10.33764/2618-981X-2023-1-2-306-312. – EDN HHQDBE. https://www.researchgate.net/publication/375705890_Monitoring_kacestva_sputnikovyh_izmerenij_na_punktah_FAGS
+
+* Карпик А. П., Маликов А. О., Мамаев Д. С., Мареев А. В. Оценка чувствительности к вертикальным перемещениям сети геодезического мониторинга при использовании малобюджетной навигационной аппаратуры потребителя ГНСС // Геодезия и картография. – 2024. – № 12. – С. 18–29. DOI: 10.22389/0016-7126-2024-1014-12-18-29. 
+
+
+ВИМ:
 * Исследование устойчивости прототипа малобюджетного цифрового видеоинклинометра к изменению температуры https://www.researchgate.net/publication/377065144_Issledovanie_ustojcivosti_prototipa_malobudzetnogo_cifrovogo_videoinklinometra_k_izmeneniu_temperatury
 
-* Малобюджетный высокоточный цифровой инклинометр на основе системы компьютерного зрения https://www.researchgate.net/publication/375607826_Malobudzetnyj_vysokotocnyj_cifrovoj_inklinometr_na_osnove_sistemy_komputernogo_zrenia
+* ММалобюджетный высокоточный цифровой инклинометр на основе системы компьютерного зрения / А. П. Карпик, А. В. Мареев, М. А. Попков [и др.] // Ракетно-космическое приборостроение и информационные системы. – 2023. – Т. 10. – № 3. – С. 51–59. https://www.researchgate.net/publication/375607826_Malobudzetnyj_vysokotocnyj_cifrovoj_inklinometr_na_osnove_sistemy_komputernogo_zrenia
 
-* Evaluation of OpenCV- and Laser Pointer- based Vertical Displacement Sensor for Structure Health Monitoring https://www.researchgate.net/publication/376510074_Evaluation_of_OpenCV-_and_Laser_Pointer-_based_Vertical_Displacement_Sensor_for_Structure_Health_Monitoring
+* Янгалышев, В. Р. Программа для калибровки малобюджетных высокоточных цифровых видеоинклинометров / В. Р. Янгалышев, М. А. Попков, В. Ю. Наумов // Нефть и газ: технологии и инновации : Материалы Международной научно-практической конференции, Тюмень, 26–28 ноября 2024 года. – Тюмень: Тюменский индустриальный университет, 2024. – С. 182-186.
+
+* Янгалышев, В. Р. Исследование устойчивости прототипа малобюджетного цифрового видеоинклинометра к изменению температуры / А. В. Мареев, М. А. Попков, В. Р. Янгалышев, В. И. Татаренко // Вестник СГУГиТ (Сибирского государственного университета геосистем и технологий). – 2024. – Т. 29, № 6. – С. 23- 31. – DOI 10.33764/2411-1759-2024-29-6-23-31. – EDN ISPTUA.
+
+* Effect of Digital Video Camera Heating on The Zero-Point Stability of a High-Precision Computer-Vision Based Video Inclinometer / S. V. Dolin, A. P. Karpik, D. S. Mamaev [и др.] // 2024 IEEE 3rd International Conference on Problems of Informatics, Electronics and Radio Engineering (PIERE). – 2024. – С. 1040–1044. – DOI: 10.1109/PIERE62470.2024.10805013
 
 
-* Мониторинг качества спутниковых измерений на пунктах ФАГС https://www.researchgate.net/publication/375705890_Monitoring_kacestva_sputnikovyh_izmerenij_na_punktah_FAGS
+ДВП:
+* Evaluation of OpenCV and Laser Pointer based Vertical Displacement Sensor for Structure Health Monitoring / A. P. Karpik, A. V. Makeev, A. V. Mareev [и др.] // 2023 IEEE XVI International Scientific and Technical Conference Actual Problems of Electronic Instrument Engineering (APEIE). – 2023. – С. 1340–1343. – DOI: 10.1109/APEIE59731.2023.10347769. https://www.researchgate.net/publication/376510074_Evaluation_of_OpenCV-_and_Laser_Pointer-_based_Vertical_Displacement_Sensor_for_Structure_Health_Monitoring
 
-* Свободное программное обеспечение для геодезического мониторинга Moncenter https://www.researchgate.net/publication/365182945_Svobodnoe_programmnoe_obespecenie_dla_geodeziceskogo_monitoringa_Moncenter
+* Айрапетян, В.С. Исследование генерационных характеристик параметрического лазера на кристалле AgGaS2 в диапазоне 1,41–9,01 мкм / В.С. Айрапетян, А.В. Макеев // Прикладная фотоника. – 2024. – Т. 11, № 3. – С. 50–61.
 
-Презентации:
-* [MonCenter.pptx](MonCenter.pptx), [MonCenter.pdf](MonCenter.pdf)
+MonCenterCAD:
+* Мареев А.В., Наумов В.Ю., Маликов А.О. Методика создания геодезических приложений с использованием свободных систем автоматизированного проектирования // Известия вузов «Геодезия и аэрофотосъемка». 2024. Т. 68. № 6. С. 8–19. DOI:10.30533/GiA-2024-043
 
-Проекты:
+MonCenterVR:
+* Кирилов, Н. А. Научно-методические основы разработки симулятора работы с геодезическим оборудованием / Н. А. Кирилов, В. С. Хорошилов // Вестник СГУГиТ (Сибирского государственного университета геосистем и технологий). – 2024. – Т. 29, № 5. – С. 23-31. – DOI 10.33764/2411-1759-2024-29-5-23-31. – EDN JSCMQX.
+
+Геодезический мониторинг:
+* Карпик, А. П. Свободное программное обеспечение для геодезического мониторинга Moncenter / А. П. Карпик, А. В. Мареев, Д. С. Мамаев // Вестник СГУГиТ (Сибирского государственного университета геосистем и технологий). – 2022. – Т. 27, № 5. – С. 43-54. – DOI 10.33764/2411-1759-2022-27-5-43-54. – EDN MJXFOV. https://www.researchgate.net/publication/365182945_Svobodnoe_programmnoe_obespecenie_dla_geodeziceskogo_monitoringa_Moncenter
+
+* Макеев, А. В. Обзор оптоволоконных датчиков мониторинга деформаций строительных конструкций нефтегазодобывающей инфраструктуры / А. В. Макеев, В. Р. Янгалышев // Нефть и газ: технологии и инновации : Материалы Международной научно-практической конференции, Тюмень, 26–28 ноября 2024 года. – Тюмень: Тюменский индустриальный университет, 2024. – С. 109-114.
+
+* Мамаев, Д. С. Способы развития малобюджетных систем наблюдений для геодезического мониторинга инфраструктуры добычи полезных ископаемых / Д. С. Мамаев, А. В. Мареев, А. О. Маликов // Нефть и газ: технологии и инновации : Материалы Международной научно-практической конференции, Тюмень, 26–28 ноября 2024 года. – Тюмень: Тюменский индустриальный университет, 2024. – С. 163-167.
+
+
+## Результаты интелектальной деятельности (РИД)
+* 2023685671, MonCenter Desktop, Программа для ЭВМ, 29 ноября 2023 г.
+* 2024690818, Калибровка ВИМ, Программа для ЭВМ, 18 декабря 2024 г.
+* 2024611759, MonCenterPosViewer, Программа для ЭВМ, 24 января 2024 г.
+*  2779777 C1, Устройство для определения пространственных координат контролируемых элементов инженерных или природных объектов при геодезическом мониторинге в режиме реального времени в условиях экстремальных температур окружающей среды посредством навигационной аппаратуры, принимающей сигналы космических аппаратов (КА) глобальных навигационных спутниковых систем (ГНСС), включая сигналы КА ГЛОНАСС/GPS, Изобретение, 15 ноября 2021 г.
+* 2800188 C1, Способ высокоточного определения углов наклона контролируемого объекта, инженерного или природного, при геодезическом мониторинге посредством технологии компьютерного зрения в режиме реального времени в условиях экстремально низких температур окружающей среды и устройство для его осуществления, Изобретение, 19 июля 2023 г.
+* 2832854 C1, Цифровой видеонаклономер для высокоточного определения значений углов наклона контролируемого объекта, инженерного или
+природного, при геодезическом мониторинге посредством технологии компьютерного зрения в режиме реального времени в экстремальных
+климатических условиях, Изобретение, 30 мая 2024 г.
+
+
+## Презентации
+<!-- * [MonCenter.pptx](MonCenter.pptx), [MonCenter.pdf](MonCenter.pdf) -->
+
+## Проекты
 * MonCenterLib - https://github.com/DanielMamaev/MonCenterLib
 * MonCenterWeb - http://moncenter.ru/
-* MonCenterHardware - в процессе
-* Old MonCenterHardware(BuzzLiner) - https://github.com/DanielMamaev/BuzzLiner/tree/main
 * Video inclinometer software - https://github.com/DoubleCitizen/SSUGT_inclinometer/tree/master
+* MonCenterVR - в процессе
+* MonCenterCAD - в процессе
+* MonCenterHardware (ГНСС-приемник, видеоинклинометр ВИМ, датчик вертикальных перемещений ДВП, модуль питания) "в процессе" - https://github.com/LoSG-GNSS/MonCenterHardware
+* Old MonCenterHardware(BuzzLiner) - https://github.com/DanielMamaev/BuzzLiner/tree/main
 
 
-
-Команда:
+## Команда
 * А. П. Карпик (научн. руководитель)
 * А. В. Елагин (с.н.с)
 * Л. А. Липатников (н.с.)
